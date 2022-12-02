@@ -1,3 +1,7 @@
+<p align="center">
+  <img class="center" align="center" src="https://miro.medium.com/max/1000/1*5b06Lyzy9vTa0PUxuSVkvg.gif">
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katsofroniou&count_private=true&theme=radical">
 </a>
