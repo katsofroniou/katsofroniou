@@ -12,6 +12,6 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://vercel2-1wyddprz6-katsofroniou.vercel.app/api/top-langs/?username=katsofroniou&langs_count=10&exclude_repo=vercel,katsofroniou.github.io&theme=radical&layout=compact">
+   <img align="center" src="https://vercel2-1wyddprz6-katsofroniou.vercel.app/api/top-langs/?username=katsofroniou&langs_count=10&exclude_repo=vercel,rcat,katsofroniou.github.io&theme=radical&layout=compact">
   </a>
 </p>
