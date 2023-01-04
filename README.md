@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://vercel2-k6on8yx68-katsofroniou.vercel.app/api?username=katsofroniou&count_private=true&theme=radical">
+    <img align="center" src="https://vercel-q9jqzfi18-katsofroniou.vercel.app/api?username=katsofroniou&count_private=true&theme=radical">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://vercel2-k6on8yx68-katsofroniou.vercel.app/api/wakatime?username=KaterinaSof&theme=radical">
+    <img align="top" src="https://vercel-q9jqzfi18-katsofroniou.vercel.app/api/wakatime?username=KaterinaSof&theme=radical">
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://vercel2-k6on8yx68-katsofroniou.vercel.app/api/top-langs/?username=katsofroniou&langs_count=10&exclude_repo=vercel,rcat,katsofroniou.github.io&theme=radical&layout=compact">
+   <img align="center" src="https://vercel-q9jqzfi18-katsofroniou.vercel.app/api/top-langs/?username=katsofroniou&langs_count=10&exclude_repo=vercel,rcat,katsofroniou.github.io&theme=radical&layout=compact">
   </a>
 </p>
