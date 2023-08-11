@@ -1,17 +1,13 @@
-<p align="center">
-  <img class="center" align="center" src="https://miro.medium.com/max/1000/1*5b06Lyzy9vTa0PUxuSVkvg.gif"
-</p>
+<img src="https://media0.giphy.com/media/cTZ7btUisEisM/giphy.gif?cid=ecf05e47f08b6mxkmb120wsju1nv484qo0miw4z4foddczu0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="90s computer GIF" align="right" width="200" height="200">
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=katsofroniou&count_private=true&theme=radical">
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaterinaSof&theme=radical">
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsofroniou&langs_count=10&exclude_repo=vercel,rcat,katsofroniou.github.io&theme=radical&layout=compact">
-  </a>
-</p>
+## ✨ Heya, I'm Kat - Welcome to my GitHub! ✨
+
+[![Website](https://img.shields.io/website?label=strawberrykat.co.uk&style=for-the-badge&url=https%3A%2F%2Fstrawberrykat.co.uk&color=pink)](https://strawberrykat.co.uk)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=katsofroniou&label=Visitors!&countColor=%23ffc0cb&labelStyle=upper)
+
+*🌸 3rd year computer science student*
+
+*🌸 20 years old*
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
