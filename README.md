@@ -13,11 +13,11 @@
 
 <details open>
   <summary>🌷 My GitHub Stats</summary>
-      <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KaterinaSof&show_icons=true&hide_border=true&border_radius=10&number_format=short&theme=dracula" alt="Kat's top languages" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsofroniou&langs_count=5&exclude_repo=vercel,rcat,katsofroniou.github.io&layout=donut&show_icons=true&hide_border=true&border_radius=10&number_format=short&theme=dracula&hide=jupyter%20notebook" alt="Kat's Wakatime stats" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=katsofroniou&show_icons=true&hide_border=true&border_radius=10&number_format=short&theme=dracula" alt="Kat's GitHub stats" style="height: 200px;">
-  </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsofroniou&langs_count=5&exclude_repo=vercel,rcat,katsofroniou.github.io&layout=donut&show_icons=true&hide_border=true&border_radius=10&number_format=short&theme=dracula&hide=jupyter%20notebook" alt="Kat's Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=katsofroniou&show_icons=true&hide_border=true&border_radius=10&number_format=short&theme=dracula" alt="Kat's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KaterinaSof&show_icons=true&hide_border=true&border_radius=10&number_format=short&theme=dracula" alt="Kat's top languages">
+    </div>
 </details>
 
 ---
