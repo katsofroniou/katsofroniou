@@ -5,9 +5,9 @@
 [![Website](https://img.shields.io/website?label=strawberrykat.co.uk&style=for-the-badge&url=https%3A%2F%2Fstrawberrykat.co.uk&color=pink)](https://strawberrykat.co.uk)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=katsofroniou&label=Visitors!&countColor=%23ffc0cb&labelStyle=upper)
 
-*🌸 3rd year computer science student*
+*🌸 Techops Engineer*
 
-*🌸 21 years old*
+*🌸 22 years old*
 
 ---
 
